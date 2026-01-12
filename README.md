@@ -4,3 +4,4 @@
 - day 4 streak
 - day 5 streak
 - day 6 streak
+- day 7 streak

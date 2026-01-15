@@ -6,4 +6,5 @@
 - day 6 streak
 - day 7 streak
 - day 8 streak
-- day 8 streak
+- day 9 streak
+- day 10 streak

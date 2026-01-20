@@ -12,3 +12,4 @@
 - day 12 streak
 - day 13 streak
 - 19/01
+- 20/01
